@@ -1,0 +1,259 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.comtainer{
+    z-index: -1;
+    margin: 0;
+    padding: 0;
+}
+
+
+.Fblock{
+    width: 100%;
+    height: 17%;;
+    z-index: 2;
+    background-image:linear-gradient(110deg,#be4b4b,#4b004a );
+    
+
+}
+
+
+.CR{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 700px;
+   
+   
+    font-size: 78px;
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+
+.RE{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 700px;
+    margin-top: 12px;
+    
+
+}
+.butt{
+    border: none;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color:#f00040;
+    font: bold;
+    width: 130px;
+    height: 50px;
+    margin-left: 699px;
+    margin-top: 51px;
+
+}
+.butt:hover{
+    background-color: #ad002e;
+    cursor: pointer;
+}
+
+
+
+
+.tele{
+    display: flex;
+    justify-content: right;
+    padding-right: 90px;
+    margin-right: 199px;
+
+
+}
+
+.AIT{
+    box-shadow: 0px 0px 100px black;
+    z-index: 1;
+    width: 100%;
+    height: 29%;
+    background-color: #3f013f;
+}
+
+
+
+
+
+
+.wom{
+    margin-top: -360px;
+    z-index: 3;
+    margin-left: 500px;
+    
+}
+
+
+
+
+
+.zerone{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 124px;
+    display: flex;
+    justify-content: center;
+    /* margin-right: 300px; */
+
+} 
+
+/* .Alltext{
+    display: flex;
+    justify-content: space-around;
+} */
+
+.tex1 h1{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    color: #ff0044;
+    display: flex;
+    justify-content: right;
+    font-size: 48px;
+    justify-content: center;
+    /* line-break: strict; */
+    
+
+}
+.tex2 p{
+
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    max-width: 400px;
+    margin-left: 1000px;
+    color: rgb(255, 255, 255);
+    
+}
+.zerotwo{
+    display: flex;
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 124px;
+    color: white;
+}
+
+.QPUANS{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    color: #f00040;
+}
+
+
+.tex3{
+
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    padding: 30px;
+    max-height: 50px;
+    max-width: 400px;
+    
+    color: white;
+}
+.tee2{
+
+    display: flex;
+    justify-content: right;
+}
+
+.comtainer2{
+    width: 100%;
+    height: 12%;
+    background-color: whitesmoke;
+}
+
+.container2 h1{
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+    font-size: 48px;
+    color: #3f013f;
+}
+
+.num{
+    color: #f00040;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 78px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.Dream{
+    background-image: url(./image/fotfot.png)  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+  
+
+}
+.text{
+    margin: 100px;
+}
+.undDream{
+    display: flex;
+    opacity: center ;
+    justify-content: space-evenly;
+}
+
+.Dream h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 72px;
+    color: #f00040;
+    margin: 30px;
+}
+.Dream p{
+    font-family: 'Open Sans', sans-serif;
+    color: aliceblue;
+    font-size: 16px;
+    margin: 30px;
+
+}
+
+form{
+    margin: 100px;
+}
+input{
+    font-size: 19px;
+    font-family: 'Open Sans', sans-serif;
+    background: rgba(37, 0, 78, 0.226);
+    border: 3px solid red;
+    padding: 10px 12px ;
+    width: 371px;
+    height: 45px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+input[type=text]{
+    height: 130px;
+}
+
+
+#but{
+    font-family: 'Open Sans', sans-serif;
+    width: 112px;
+    height: 40px;
+    background-color: #f00040;
+    color: white;
+    border: none;
+}
+#but:hover{
+    cursor: pointer;
+    background-color: #a3002c;
+}
